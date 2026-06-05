@@ -8,7 +8,7 @@ Keys to better diving is an analog, modular training system for scuba divers. Us
 
 ## What may it look like in the future?
 Sorry for this an AI image (Nano banana 2), but I'm not a designer and I needed a draft image for visualisation:
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/445174a8-0cf9-4aad-9f5b-b7c4d145c523" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0ea7f9d0-fcf0-4926-b6a9-1d1296d5b439" />
 
 ## How it works:
 *How it works:* You take colored skill tags from the *Practice Ring* with you on your dive. You practice the skill you’ve selected. Once you’ve mastered it, the tag moves to the golden (or other color) *Achievement Ring* at home.
