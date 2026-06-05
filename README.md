@@ -1,10 +1,17 @@
 # keys-to-better-diving
 This project is about a keychain for divers that help you practice your skills
 
-There will be a skill list with many different skills according to your level or specialties from which you can choose. Then, you download the STL-files accordingly and print them out, put it on a keychain and start practicing.
+There will be a skill list with many different skills according to your level or specialties from which you can choose. Then, you download the STL-files accordingly and print them out, put it on a keychain and start practicing:
+
+- Choose the skills, print them & put them on a ring
+- Pick a skill to practice, practice until happy
+- Switch skill to achievement ring
+- Start all over again
+
 
 # What is this all about?
-Keys to better diving is an analog, modular training system for scuba divers. Usually, you want to practice, you stand right at the water and you don't know WHAT to practice. This is where *KTBD* comes to your aid. Just blindly pick one skill and start practicing. When you're happy with the performance, switch it to the second ring which is for skills you're happy with. Once all skills are on the other ring, switch back and start all over again!
+Keys to better diving is an analog, modular training system for scuba divers. 
+Usually, you want to practice, you stand right at the water and you don't know WHAT to practice. This is where *KTBD* comes to your aid. Just blindly **pick one skill** and start practicing. When you're happy with the performance, switch it to the second ring which is for skills you're happy with. Once all skills are on the other ring, switch back and start all over again!
 
 ## What may it look like in the future?
 Sorry for this an AI image (Nano banana 2), but I'm not a designer and I needed a draft image for visualisation:
