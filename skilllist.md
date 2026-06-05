@@ -15,6 +15,7 @@
 
 ## Equipment skills
 - Full assembly and check of equipment
+- Weight check at the end of the dive (max 50bar left)
 
 ## Enter and exit
 - Negative Entry
@@ -32,16 +33,17 @@
 - Helicopter turn
 
 ## Dry suit skills
-- Emergency Roll 
+- Emergency Roll
+- Inflator Hose disconnect
 ### Advanced:
 - Feet up float and recovery
-- Inflator Hose disconnect
 
 ## Sidemount skills
-- Tired Diver Tow
-- Tank Drop
-- Tank Grab
-- Tank Swap (nur mit Stage)
+- Tired Diver Tow (from 5m to surface)
+- Right tank drop & tank grab (if no stage)
+- Out of air drill & Longhose stow
+- Stage handling - Stage drop and grab
+- Stage handling - Stage rotation
 - Valve Feathering
 - Pouch Access & Pouch Store
 
@@ -52,5 +54,9 @@
 
 ## CCR
 - Bailout
+- Dilluent flush
+- Loop water purge (if the CCR allows it)
 
 ## Cave Diving
+ - blind line sweep
+ - blind exit
