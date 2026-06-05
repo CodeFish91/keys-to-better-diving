@@ -2,7 +2,7 @@
 *Initial list*
 
 ## Basic skills
-- Regulator recovery
+- [Regulator recovery](#regulator-recovery)
 - Remove, replace & clear mask + no mask breathing + no mask swim
 - Hand signals
 - Oral BCD inflation
@@ -60,3 +60,22 @@
 ## Cave Diving
  - blind line sweep
  - blind exit
+
+
+# Skill description
+The skill description works as follows:
+```
+## <a name="anchor-name">Anchor text</a>
+**Scenario:** [Scenario description]\
+**Skill description:** [Description of the skill]
+**Modifications:** [If there are modifications, add them here]
+```
+
+## <a name="regulator-recovery">Regulator recovery</a>
+**Scenario:** You have lost your regulator and need to recover it\
+**Skill description:** To regain your regulator/second stage, do the following:
+- Tilt to the right
+- Touch your thigh with your right hand
+- Go along the tank backwards and form a big circle with your straight arm from back to front over your head
+- Now that the hose is on your arm, grab it and put it back into your mouth (make sure it is the right way around
+**Modifications:** You may also reach for the octopus/alternate air source first so that you can breath while reaching for the regulator.
